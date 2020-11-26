@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  webtob:
+  - apiVersion: v2
+    appVersion: 4.2.7
+    created: "2020-11-26T10:45:55.111530158Z"
+    description: A Helm chart for TeeSpace WebtoB
+    digest: 986d9a590db699417328adc24f9bb729b8a54c79de49240f486dbf8a3b402fa4
+    name: webtob
+    type: application
+    urls:
+    - webtob-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-11-26T10:45:55.104466906Z"
